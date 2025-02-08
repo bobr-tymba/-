@@ -1,0 +1,35 @@
+nav{
+background-color:green ;
+text-align: center;
+padding: 5px;
+color: white;
+}
+nav a{
+color: white;
+}
+body {
+    font-family: sans-serif;}
+
+header{border-radius:5px;
+background-color:lightblue;
+padding:5px;
+}
+h1{
+color:blueviolet;
+}
+footer p{
+    background-color:greenyellow;
+padding:5px;
+}
+.bobr{
+    background-color: red;
+     border-radius: 15px;
+}
+
+h2{
+    color: blue;
+}
+.rab{
+    border: 1px solid orange;
+    padding: 5px;
+}
